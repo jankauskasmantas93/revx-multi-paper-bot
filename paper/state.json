@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "created": "2026-10-19T18:12:02.423235+00:00",
+  "profile": "slow_trend",
+  "strategy": "breakout",
+  "params": {
+    "lookback": 480,
+    "stop_atr": 12.0,
+    "max_positions": 5
+  },
+  "params_source": "config.PAPER_PARAMS_FALLBACK",
+  "start_usd": 135.0,
+  "started_bar": "2026-10-19T17:00:00+00:00",
+  "last_bar": "2026-10-19T17:00:00+00:00",
+  "book": {
+    "cash": 135.0,
+    "positions": {},
+    "equity_prev": 135.0,
+    "day_start_eq": 135.0,
+    "can_buy": true,
+    "cur_day": 20745,
+    "pend_sell": [],
+    "pend_buy": [],
+    "pend_add": []
+  },
+  "last_run": "2026-10-19T18:12:02.423419+00:00",
+  "equity": 135.0
+}
