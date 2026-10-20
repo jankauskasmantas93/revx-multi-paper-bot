@@ -40,3 +40,5 @@
 2026-10-20 11:35:22  WARNING candle update failed for: AAVE (Gave up calling /1.0/public/candles/AAVE-USD), ADA (Gave up calling /1.0/public/candles/ADA-USD), AERGO (Gave up calling /1.0/public/candles/AERGO-USD), ALEO (Gave up calling /1.0/public/candles/ALEO-USD), AMP (Gave up calling /1.0/public/candles/AMP-USD), APT (Gave up calling /1.0/public/candles/APT-USD), ARB (Gave up calling /1.0/public/candles/ARB-USD), BCH (Gave up calling /1.0/public/candles/BCH-USD), BOBA (Gave up calling /1.0/public/candles/BOBA-USD)
 2026-10-20 11:35:23  INFO    catching up on 5 missed hours
 2026-10-20 11:35:23  INFO    candle 2026-10-20 10:00 done | equity $135.00 | cash $135.00 | holding: none
+2026-10-20 12:32:24  INFO    strategy: slow_trend breakout {'lookback': 480, 'stop_atr': 12.0, 'max_positions': 5} (settings from config.PAPER_PARAMS_FALLBACK), paper pot $135.00
+2026-10-20 12:33:17  INFO    candle 2026-10-20 11:00 done | equity $135.00 | cash $135.00 | holding: none
