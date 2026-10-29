@@ -11,7 +11,7 @@
   "params_source": "config.PAPER_PARAMS_FALLBACK",
   "start_usd": 135.0,
   "started_bar": "2026-10-19T17:00:00+00:00",
-  "last_bar": "2026-10-29T01:00:00+00:00",
+  "last_bar": "2026-10-29T02:00:00+00:00",
   "book": {
     "cash": 135.0,
     "positions": {},
@@ -23,6 +23,6 @@
     "pend_buy": [],
     "pend_add": []
   },
-  "last_run": "2026-10-29T02:42:50.835885+00:00",
+  "last_run": "2026-10-29T03:40:54.041708+00:00",
   "equity": 135.0
 }
