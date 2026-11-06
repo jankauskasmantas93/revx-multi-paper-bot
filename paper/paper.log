@@ -869,3 +869,5 @@
 2026-11-06 21:36:28  INFO    candle 2026-11-06 20:00 done | equity $135.00 | cash $135.00 | holding: none
 2026-11-06 22:35:56  INFO    strategy: slow_trend breakout {'lookback': 480, 'stop_atr': 12.0, 'max_positions': 5} (settings from config.PAPER_PARAMS_FALLBACK), paper pot $135.00
 2026-11-06 22:36:41  INFO    candle 2026-11-06 21:00 done | equity $135.00 | cash $135.00 | holding: none
+2026-11-06 23:32:08  INFO    strategy: slow_trend breakout {'lookback': 480, 'stop_atr': 12.0, 'max_positions': 5} (settings from config.PAPER_PARAMS_FALLBACK), paper pot $135.00
+2026-11-06 23:32:52  INFO    candle 2026-11-06 22:00 done | equity $135.00 | cash $135.00 | holding: none
